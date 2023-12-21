@@ -1,0 +1,1 @@
+java -jar C:\Users\Acer\Desktop\SELENIUM_HUB_NODE\DRIVERS\selenium-server-4.16.1.jar hub

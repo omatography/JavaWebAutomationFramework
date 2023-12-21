@@ -1,0 +1,1 @@
+java -Dwebdriver='C:\Users\Acer\Desktop\SELENIUM_HUB_NODE\DRIVERS\CHROMEDRIVER\chromedriver.exe' -jar C:\Users\Acer\Desktop\SELENIUM_HUB_NODE\DRIVERS\selenium-server-4.16.1.jar node --selenium-manager true
